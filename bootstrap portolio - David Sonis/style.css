@@ -1,0 +1,16 @@
+#main {
+  border-image-width: 0px;
+  border: 5px solid hsl(122, 0%, 0%);
+  padding: 0px;
+  margin-top: 20px;
+  border-top-right-radius: 40%;
+  border-bottom-right-radius: 40%;
+  border-bottom-left-radius: 40%;
+  border-top-left-radius: 40%;
+  height: 200px;
+  width: 200px;
+}
+.border{
+  border-style: double;
+  border-color: silver;
+}
